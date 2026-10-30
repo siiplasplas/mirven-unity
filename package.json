@@ -1,0 +1,19 @@
+{
+  "name": "com.mirven.unity",
+  "version": "0.1.0",
+  "displayName": "Mirven",
+  "description": "Mirven Studio panel inside the Unity Editor: shows the requests and tasks Mirven planned for this project, pings the files a task touched, and reports compile errors back to Mirven. Read-only: it never writes to your project.",
+  "unity": "2021.3",
+  "dependencies": {
+    "com.unity.modules.imgui": "1.0.0",
+    "com.unity.modules.unitywebrequest": "1.0.0"
+  },
+  "documentationUrl": "https://github.com/siiplasplas/mirven-unity#readme",
+  "changelogUrl": "https://github.com/siiplasplas/mirven-unity/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/siiplasplas/mirven-unity/blob/main/LICENSE.md",
+  "keywords": ["mirven", "studio", "planning", "editor"],
+  "author": {
+    "name": "Mirven",
+    "url": "https://mirven.app"
+  }
+}
